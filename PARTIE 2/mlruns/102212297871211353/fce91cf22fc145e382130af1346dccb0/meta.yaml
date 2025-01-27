@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sebastienmorichon/OpenClassRooms/DATA%20SCIENTIST/DS-PROJET-08/PARTIE%202/mlruns/102212297871211353/fce91cf22fc145e382130af1346dccb0/artifacts
+end_time: 1735060489633
+entry_point_name: ''
+experiment_id: '102212297871211353'
+lifecycle_stage: active
+run_id: fce91cf22fc145e382130af1346dccb0
+run_name: resilient-toad-373
+run_uuid: fce91cf22fc145e382130af1346dccb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735060485908
+status: 3
+tags: []
+user_id: sebastienmorichon
